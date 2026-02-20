@@ -94,5 +94,4 @@ core_interfaces:
       interfaces: [ Ethernet8, Ethernet2 ]
       include_in_underlay_protocol: true
 
-
       
